@@ -65,6 +65,10 @@ this.Controls.Add(panel);
 | `Resources.resx` | 리소스 설정 파일 (아이콘, 문자열 등) |
 | `RoundedPanelDemo.exe` | 빌드된 실행 파일 (Windows Forms 앱) |
 
+## 🖼️ 데모 스크린샷
+
+![RoundedShadowPanel Demo](/assets/screenshot.png)
+
 ## 🧪 RoundedPanelDemo 예제
 
 이 예제는 `RoundedShadowPanel`을 이용해 다음과 같은 요소를 시각적으로 보여줍니다:
